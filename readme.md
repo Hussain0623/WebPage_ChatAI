@@ -18,7 +18,7 @@ You need a valid OpenAI API Key.
 INSTALLATION INSTRUCTIONS
 
 1. Clone this repository to your local machine using following command.
-git clone https://github.com/hussainansari2006/web_Q-A_bot.git
+git clone https://github.com/Hussain0623/WebPage_ChatAI.git
 2. Install the required dependencies using following command.
 pip install -r requirements.txt
 
